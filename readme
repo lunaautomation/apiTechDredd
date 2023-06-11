@@ -1,0 +1,3 @@
+To run the tests, install dependencies and run the following:
+
+```npm run test```

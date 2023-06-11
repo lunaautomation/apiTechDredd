@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "dredd": "^14.1.0",
+    "axios": "^1.4.0"
+  },
+  "scripts": {
+   "test": "npx dredd"
+  }
+}
